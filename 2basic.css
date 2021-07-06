@@ -1,0 +1,29 @@
+body{
+    font-family: tahoma;
+    background-image: url(images/background.jpg);
+    padding-left: 200px;
+    padding-right: 200px;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.295);
+}
+h2{
+    color: orange;
+    text-align: center;
+}
+
+div{
+    border: 2px solid grey;
+    padding: 15px;
+    border-radius: 5px 0 5px 0;
+    margin: 15px;
+}
+.more{
+        color: red;
+        text-align: right;
+    }
+.style{
+    border: 2px dotted grey;
+}
